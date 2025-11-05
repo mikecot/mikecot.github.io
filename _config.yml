@@ -1,0 +1,78 @@
+# Site settings
+title: Mike Cotic | Blockchain Infrastructure & Security
+email: mike@mikecotic.dev
+description: >-
+  Blockchain infrastructure engineer and cybersecurity researcher. 
+  Building scalable decentralized systems and analyzing emerging threats 
+  in the Web3 ecosystem.
+
+baseurl: ""
+url: "https://mikecotic.github.io"
+
+# GitHub repository
+repository: mikecotic/mikecotic.github.io
+
+# Social media
+github_username: mikecotic
+linkedin_username: mikecotic
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Page structure
+header_pages:
+  - index.md
+  - posts.md
+  - projects.md
+  - security-research.md
+  - about.md
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title:output_ext
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Mike Cotic"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# SEO
+author:
+  name: Mike Cotic
+  email: mike@mikecotic.dev
+  social_links:
+    - https://linkedin.com/in/mikecotic
+    - https://github.com/mikecotic
+
+# Analytics (replace with your tracking ID if you have one)
+# google_analytics: UA-XXXXXXXX-X
+
+# Timezone
+timezone: Europe/Budapest
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .gitignore
+  - README.md

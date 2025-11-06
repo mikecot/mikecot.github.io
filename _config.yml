@@ -1,20 +1,20 @@
 # Site settings
-title: Mike Cotic | Blockchain Infrastructure & Security
-email: mike@mikecotic.dev
-description: >-
-  Blockchain infrastructure engineer and cybersecurity researcher. 
-  Building scalable decentralized systems and analyzing emerging threats 
-  in the Web3 ecosystem.
+title: Mike Cotic
+email: 
+description: "Senior Software Engineer & Security Researcher"
+show_excerpts: false
 
 baseurl: ""
 url: "https://mikecotic.github.io"
 
 # GitHub repository
-repository: mikecotic/mikecotic.github.io
+repository: mikecot/mikecot.github.io
 
 # Social media
-github_username: mikecotic
-linkedin_username: mikecotic
+minima:
+  social_links:
+    github: mikecot
+
 
 # Build settings
 markdown: kramdown
@@ -26,10 +26,10 @@ plugins:
 
 # Page structure
 header_pages:
-  - index.md
   - posts.md
-  - projects.md
-  - security-research.md
+  - scams-in-the-wild.md
+  - blockchain-infrastructure.md
+  - cybersecurity-research.md
   - about.md
 
 # Collections
@@ -45,19 +45,10 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Mike Cotic"
   - scope:
       path: ""
     values:
       layout: "default"
-
-# SEO
-author:
-  name: Mike Cotic
-  email: mike@mikecotic.dev
-  social_links:
-    - https://linkedin.com/in/mikecotic
-    - https://github.com/mikecotic
 
 # Analytics (replace with your tracking ID if you have one)
 # google_analytics: UA-XXXXXXXX-X

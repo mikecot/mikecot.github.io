@@ -3,6 +3,7 @@ layout: post
 title: "Lava Info - Network Information Hub"
 date: 2024-05-03
 categories: blockchain-infrastructure
+author: Mike Cotic
 ---
 
 # Network Intelligence Platform

@@ -3,6 +3,7 @@ layout: post
 title: "Lava Stats - Live Network Analytics"
 date: 2025-08-24
 categories: blockchain-infrastructure
+author: Mike Cotic
 ---
 
 # Network Statistics Portal

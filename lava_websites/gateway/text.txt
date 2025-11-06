@@ -1,0 +1,2 @@
+gateway.lavanet.xyz
+Originally a 4-person growth team project, the platform required major refactoring and removal of unsupported features. Today, the website is lean, reliable, and fast - allowing developers to generate custom RPC endpoints for Lava’s network.

@@ -3,6 +3,7 @@ layout: post
 title: "Lava Rewards - Provider & Delegator Analytics"
 date: 2025-07-19
 categories: blockchain-infrastructure
+author: Mike Cotic
 ---
 
 # Rewards Analytics Platform

@@ -3,6 +3,7 @@ layout: post
 title: "Lava Internal RPC Analytics - Performance Monitoring"
 date: 2025-10-03
 categories: blockchain-infrastructure
+author: Mike Cotic
 ---
 
 # Lava Internal RPC Analytics

@@ -3,6 +3,7 @@ layout: post
 title: "Lava Gateway - Multi-Chain RPC Portal"
 date: 2024-12-03
 categories: blockchain-infrastructure
+author: Mike Cotic
 ---
 
 # Gateway Portal

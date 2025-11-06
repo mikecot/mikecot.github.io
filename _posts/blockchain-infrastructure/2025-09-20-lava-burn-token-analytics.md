@@ -3,6 +3,7 @@ layout: post
 title: "Lava Burn - Token Economics Analytics"
 date: 2025-09-20
 categories: blockchain-infrastructure
+author: Mike Cotic
 ---
 
 # Token Burn Analytics Platform

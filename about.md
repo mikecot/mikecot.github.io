@@ -40,7 +40,7 @@ permalink: /about/
 **Backend Frameworks:** Fiber (GoFiber), Fastify, Drizzle ORM, GORM  
 **DevOps & Infrastructure:** Docker, Kubernetes/GKE, Terraform, Helm, Nginx, Traefik  
 **Cloud Platforms:** Google Cloud Platform, AWS  
-**Blockchain:** Cosmos SDK, CometBFT, Ethers.js, WalletConnect, MetaMask
+**Blockchain:** Cosmos SDK, CometBFT, Ethers.js, WalletConnect, MetaMask  
 **Monitoring & Observability:** Prometheus, Grafana, New Relic  
 **Development Tools:** Git, SVN, Jest, Playwright, ESLint, Prettier, Vite, Webpack, Nx monorepo, pnpm  
 **Protocols & APIs:** WebSockets, gRPC, JWT  
